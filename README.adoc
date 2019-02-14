@@ -1,0 +1,4 @@
+= open-cobol
+
+A repository that just compiles the open-cobol project and makes it available
+into a `docker` container.
